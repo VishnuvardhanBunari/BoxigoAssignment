@@ -1,0 +1,29 @@
+.inventory-item-div {
+  display: flex;
+  align-items: center;
+  width: 68vw;
+  padding-left: 5px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  background-color: #d8d8d8;
+}
+
+.drop-down-icon {
+  font-size: 25px;
+}
+
+.furniture-name {
+  color: #ff4500;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.span-order {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  color: white;
+  font-size: 12px;
+  background-color: #ff4500;
+  padding: 5px;
+}

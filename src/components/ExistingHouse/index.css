@@ -1,0 +1,26 @@
+.existing-house-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.old-floor-div {
+  align-items: flex-start;
+}
+
+.old-elevator {
+  align-items: flex-start;
+}
+
+.old-floor-no {
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.old-floor-no-para {
+  font-weight: 400;
+  font-family: 'Roboto';
+  font-size: 14px;
+}

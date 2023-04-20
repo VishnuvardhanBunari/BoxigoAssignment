@@ -1,0 +1,38 @@
+.additional-div {
+  width: 83%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.additional-button {
+  height: 30px;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.additional-heading {
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.house-details-div {
+  display: flex;
+  justify-content: space-between;
+  width: 82.5%;
+}
+
+.existing-heading {
+  color: #ff4500;
+  font-weight: bold;
+}
+.first-ul {
+  padding-left: 0px;
+}

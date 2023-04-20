@@ -1,0 +1,36 @@
+.display-name-quantity {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0px;
+}
+
+.display-name-last {
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.quantity {
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-weight: bold;
+  margin-left: 25px;
+}
+
+.options {
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+
+.last-items-div {
+  margin-right: 50px;
+  width: 200px;
+}

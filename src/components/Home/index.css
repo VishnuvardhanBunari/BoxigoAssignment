@@ -1,0 +1,15 @@
+.home-bg {
+  display: flex;
+}
+
+.first-bg {
+  padding-left: 30px;
+  padding-top: 50px;
+}
+
+.my-moves-heading {
+  margin-top: 50px;
+  margin-left: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}

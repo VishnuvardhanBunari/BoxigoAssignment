@@ -1,0 +1,15 @@
+.all-items-details-main-div {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.item-main-name {
+  font-weight: bold;
+}
+
+.second-ul {
+  padding-left: 0px;
+}
